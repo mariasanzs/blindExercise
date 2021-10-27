@@ -3,5 +3,6 @@
 *BUILD*
 *BUILD/*
 mbed-os
+mbed-os/
 projectfiles
 *.py*
