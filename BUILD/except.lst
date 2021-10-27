@@ -147,7 +147,7 @@ ARM Macro Assembler    Page 3
   124 00000058                 END
               00000000 
 Command Line: --debug --xref --cpreproc --diag_suppress=9931 --cpu=Cortex-M0+ -
-o.\build\except.o -IC:\Users\maria\AppData\Local\Arm\Packs\Keil\STM32L0xx_DFP\2
+o.\build\except.o -IC:\Users\Maria\AppData\Local\Arm\Packs\Keil\STM32L0xx_DFP\2
 .1.0\Drivers\CMSIS\Device\ST\STM32L0xx\Include --predefine="__UVISION_VERSION S
 ETA 536" --predefine="STM32L072xx SETA 1" --cpreproc_opts=-D__ASSERT_MSG,-DTRAN
 SACTION_QUEUE_SIZE_SPI=2,-D__CORTEX_M0PLUS,-DUSE_HAL_DRIVER,-DSTM32L072xx,-D__M

@@ -32,7 +32,7 @@ void button_change(void){
 				mode =! mode;
 				led_summer =! led_summer;
 				led_winter =! led_winter;
-				printf("Mode: %s\n", mode ? "verano" : "invierno");
+				printf("Mode: %s\n", mode ? "Summer" : "Winter");
 			}
 		}else{
 				button_pressed = false;
@@ -52,7 +52,6 @@ void print_values(State s){
 }
 
 void compare_values(unsigned short light){
-	unsigned short a = light;
 	if(mode & (light>threshold) & (s != down) & (s != lowering)){
 		rate_state = true;
 		s=lowering;

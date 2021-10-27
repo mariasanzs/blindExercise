@@ -329,7 +329,7 @@ Command Line: --debug --xref --cpreproc --diag_suppress=9931 --cpu=Cortex-M0+ -
 ARM Macro Assembler    Page 6 
 
 
-o.\build\startup_stm32l072xx.o -IC:\Users\maria\AppData\Local\Arm\Packs\Keil\ST
+o.\build\startup_stm32l072xx.o -IC:\Users\Maria\AppData\Local\Arm\Packs\Keil\ST
 M32L0xx_DFP\2.1.0\Drivers\CMSIS\Device\ST\STM32L0xx\Include --predefine="__UVIS
 ION_VERSION SETA 536" --predefine="STM32L072xx SETA 1" --cpreproc_opts=-D__ASSE
 RT_MSG,-DTRANSACTION_QUEUE_SIZE_SPI=2,-D__CORTEX_M0PLUS,-DUSE_HAL_DRIVER,-DSTM3
