@@ -68,7 +68,7 @@ void print_values(State s){
 }
 
 /*Function compare_values:
-	Evaluate the state of the blinds in order to deliverate
+	Evaluate the state of the blinds in order to deliberate
 	if its time to change the blinds because of the light
 	In the case that is necessary it sets a timeout of 30 seconds
 */
@@ -108,7 +108,7 @@ int main(){
 				}
 				//change the state of the blinds in case that is set to true during
 				//the compare_values function
-				if(change_state){
+				if(change_state){ 
 					change_state = false;
 					if(s == lowering){ s=down;}
 					if(s == rising){ s=raised;}
