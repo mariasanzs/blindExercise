@@ -2,6 +2,12 @@
 ### Project for Embedded Platforms and Communications for IoT
 The main purpose of this project is to  design and implement a simple automatic blinds system.
 
+### 💠 DOCS
+You can see the full documentation [here](https://drive.google.com/file/d/1UzSXD0N6BIoPP3ZqtY-B-eGfJ2JSIWx0/view?usp=sharing)
+
+### 💠 FILES
+You can see the main code file [here](https://github.com/mariasanzs/blindExercise/blob/master/main.cpp)
+
 ### 💠 Specifications
 
 - Two working modes: summer (if light level is high blinds are down) and winter (the opposite).  
@@ -14,10 +20,9 @@ The main purpose of this project is to  design and implement a simple automatic 
 - Use of threads 
 - The use of the serial instead - or jointly - of LEDs will be considered as an extra.
 
-### 💠 DOCS
-You can see the full documentation [here]()
 
 ## Authors 🖋️
 María Martín Peral
+
 María Sanz Sánchez
 
